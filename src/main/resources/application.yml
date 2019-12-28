@@ -1,0 +1,9 @@
+spring.h2.console.enabled: true
+
+camunda.bpm:
+  admin-user:
+    id: mateuspada
+    password: 123456
+    firstName: Mateus
+  filter:
+    create: All tasks
